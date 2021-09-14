@@ -1,0 +1,18 @@
+Simulation of a queueing system
+-----------------------------------
+
+Description:  The program simulates a finite queueing system with parameters k(capacity),
+lamda and gamma (arrival rates of machine one and two) and mew(service rate).
+
+Platform/compiler: java
+
+Files:
+
+EventDriven.java- To model the system
+SimulationRun.java - To run the simulation
+
+
+Compiling instructions:
+To compile, type javac and the file name.
+Run with keyword java.
+
